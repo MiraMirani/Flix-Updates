@@ -4,10 +4,10 @@
   "fallbackDomains": [],
   "releases": {
     "macos": {
-      "version": "1.3.1",
-      "downloadUrl": "https://github.com/MiraMirani/Flix-Updates/releases/download/macos-v1.3.1/Flix-Mac-1.3.1.dmg",
-      "sha256": "e23b4f222b52a93e59a2c5811bfbfb41a61fef7d2f559d726ac08112a45fecee",
-      "notesUrl": "https://github.com/MiraMirani/Flix-Updates/releases/tag/macos-v1.3.1"
+      "version": "1.4.0",
+      "downloadUrl": "https://github.com/MiraMirani/Flix-Updates/releases/download/macos-v1.4.0/Flix-Mac-1.4.0.dmg",
+      "sha256": "a7974a121ce5403f610737ce22ed6f52545757f19edc1150610a0a62573b680f",
+      "notesUrl": "https://github.com/MiraMirani/Flix-Updates/releases/tag/macos-v1.4.0"
     },
     "android-tv": {
       "version": "1.4.1",
