@@ -2,5 +2,12 @@
   "schemaVersion": 1,
   "primaryDomain": "https://flixmomo.bet",
   "fallbackDomains": [],
-  "releases": {}
+  "releases": {
+    "macos": {
+      "version": "1.2.0",
+      "downloadUrl": "https://github.com/MiraMirani/Flix-Updates/releases/download/macos-v1.2.0/Flix-Mac-1.2.0.dmg",
+      "sha256": "741d71eea7f58ef62117e2f3d63ea103f3454f06adc7637a243eca5c68736738",
+      "notesUrl": "https://github.com/MiraMirani/Flix-Updates/releases/tag/macos-v1.2.0"
+    }
+  }
 }
