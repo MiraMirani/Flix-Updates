@@ -10,10 +10,10 @@
       "notesUrl": "https://github.com/MiraMirani/Flix-Updates/releases/tag/macos-v1.4.0"
     },
     "android-tv": {
-      "version": "1.12.0",
-      "downloadUrl": "https://github.com/MiraMirani/Flix-Updates/releases/download/android-tv-v1.12.0/Flix-TV-1.12.0.apk",
-      "sha256": "b9c38a4abe5d304c4d5a12f07bae7cb6e76351da0a0e93da7c8af72a16687d2c",
-      "notesUrl": "https://github.com/MiraMirani/Flix-Updates/releases/tag/android-tv-v1.12.0"
+      "version": "1.12.3",
+      "downloadUrl": "https://github.com/MiraMirani/Flix-Updates/releases/download/android-tv-v1.12.3/Flix-TV-1.12.3.apk",
+      "sha256": "11a1cf77e4f64c42372ba474576aff3a2c22f254ae7d313c47d9dfed4c8d6587",
+      "notesUrl": "https://github.com/MiraMirani/Flix-Updates/releases/tag/android-tv-v1.12.3"
     },
     "windows": {
       "version": "1.1.0",
